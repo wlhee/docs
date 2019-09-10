@@ -1,5 +1,3 @@
-[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/wlhee/docs.git&cloudshell_working_dir=docs/serving/samples/grpc-ping-go/)
-
 ---
 title: "gRPC Server - Go"
 #linkTitle: ""
@@ -8,6 +6,8 @@ type: "docs"
 ---
 
 A [gRPC](https://grpc.io) server written in Go.
+
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/wlhee/docs.git&cloudshell_working_dir=docs/serving/samples/grpc-ping-go/)
 
 This sample can be used to try out gRPC, HTTP/2, and custom port configuration
 in a knative service.
